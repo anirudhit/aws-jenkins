@@ -1,0 +1,6 @@
+1_2. Creating a key pair
+ Go to EC2 > Key pairs > [Create key pair]
+ Name the key pair
+ [Name : jenkins-master]
+ 
+ Download respective .pem or .ppk file
