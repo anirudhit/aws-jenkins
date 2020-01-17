@@ -1,0 +1,8 @@
+1. Creating security group
+ Go to EC2 > NETWORK & SECURITY > Security Groups [Create Security Group]
+ Name the security group
+ [Name : jenkins-admin]
+ Add the following for Inbound
+- ssh (my ip)
+- http (Anywhere)
+- https (Anywhere)
