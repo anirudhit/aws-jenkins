@@ -1,0 +1,4 @@
+1. Setting up Jenkins
+2. Creating a Build Environment
+3. Connecting Jenkins with Webhooks
+4. Deployment to Elastic Beanstalk Application
